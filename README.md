@@ -1,2 +1,2 @@
 # lr3-teamwork
-Aboba
+Версія: 0.2 (бета)
